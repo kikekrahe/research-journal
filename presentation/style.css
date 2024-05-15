@@ -68,11 +68,12 @@ img {
     gap: 20px;
 }
 
-.column-headers div, .phase-navigation div {
+.column-headers div {
     width: 100%;
 }
 
 .phase-navigation div {
+    width: 100%;
     text-align: center;
 }
 
